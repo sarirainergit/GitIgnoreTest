@@ -1,2 +1,4 @@
 
 /op.docx
+*.txt
+*.tmp/
